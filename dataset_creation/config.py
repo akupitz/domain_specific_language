@@ -1,5 +1,5 @@
 CATMA_DATA_DIR = "/home/amit/Desktop/TAU/thesis/catma_original_data"
-OUTPUT_TSV_PATH = "/home/amit/Desktop/data.tsv"
+OUTPUT_TSV_PATH = "/home/amit/Desktop/data_separate_annotated.tsv"
 AVICHAI_ZIP_FILE = "re.zip"
 
 CONTEXT_SIZE = 100
